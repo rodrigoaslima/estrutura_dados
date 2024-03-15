@@ -1,3 +1,5 @@
 "# estrutura_de_dados" 
-"# estrutura_de_dados" 
-"# estrutura_de_dados" 
+"#Para executar o projeto:"
+"npm install"
+"npm start"
+"Altere os valores do array no index.ts como quiser"
